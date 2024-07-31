@@ -1,6 +1,6 @@
 # ChatBot💬 WebApp in Python using Flask
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
-[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
+[![Python](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/)   
 
 ## Usage:-
 - Download this repository via GIT or zip.
@@ -13,7 +13,3 @@
 <img src="https://github.com/Spidy20/Flask_NLP_ChatBot/blob/master/1.png">
 <img src="https://github.com/Spidy20/Flask_NLP_ChatBot/blob/master/2.png">
 
-
-## Notes:- 
-- **This is just basic chatbot, you can improve chatbot learning. Read [documentation](https://pypi.org/project/ChatterBot/)**
-- **For better Chatbot development you can use Dialogflow.**
